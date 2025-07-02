@@ -1,1 +1,1 @@
-# image-that-save-only-github
+# amazon-clone
